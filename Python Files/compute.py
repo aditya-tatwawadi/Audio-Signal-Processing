@@ -2,7 +2,7 @@
 import mido
 
 #Enter path of file 
-path_name_of_mid_file = "/Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/FurElise.mid"
+path_name_of_mid_file = "//Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/Midi Files/FurElise.mid"
 
 #Compute stuff
 class ComputeParsons:
