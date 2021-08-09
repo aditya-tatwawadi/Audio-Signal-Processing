@@ -1,6 +1,5 @@
-# Song-Detection
-Takes in a .mid file of an unknown song and produces a photo of the 3 most likely names. 
-Uses web-scraping and real time information from the _Musipedia_ website.
+# Song-Detection Application
+Hits _Musipedia_ in real time to webscrape and predict the most likely name suggestions of a song
 
 # Contributor
 Aditya Tatwawadi Westminster School.
