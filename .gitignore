@@ -1,5 +1,3 @@
-__pycache__
-.DS_Store
-.DS_Store
-Python Files/.DS_Store
+Python Files/__pycache__/compute.cpython-37.pyc
+Python Files/__pycache__/webscrape.cpython-37.pyc
 Python Files/parson.txt
