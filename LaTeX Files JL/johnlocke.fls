@@ -1,9 +1,9 @@
-PWD /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL
+PWD /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.tex
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.log
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.tex
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -715,10 +715,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.aux
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.aux
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.aux
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.aux
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.aux
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.aux
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.aux
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -789,13 +789,13 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bcf
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.bbl
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bcf
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.bbl
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -834,34 +834,35 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.pdf
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.pdf
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/westminsterschool.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/westminsterschool.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/westminsterschool.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/westminsterschool.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/westminsterschool.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/westminsterschool.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/westminsterschool.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/westminsterschool.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.toc
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.toc
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.toc
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.toc
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.toc
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.toc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -888,50 +889,50 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.toc
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.lol
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.lol
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.lol
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.lol
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.toc
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.lol
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.lol
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.lol
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.lol
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/shazamdemo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/shazamdemo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/shazamdemo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/shazamdemo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/shazamdemo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/shazamdemo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/shazamdemo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/shazamdemo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/shazamdemo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/shazamdemo.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/furelisecode.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/furelisecode.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/furelisecode.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/furelisecode.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/furelisecode.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/PythonLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/PythonLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/PythonLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/PythonLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/PythonLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/GithubLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/GithubLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/GithubLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/GithubLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/GithubLogo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/flowchart.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/flowchart.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/flowchart.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/flowchart.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/flowchart.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/analoguetodigital.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/analoguetodigital.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/analoguetodigital.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/analoguetodigital.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/analoguetodigital.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/spectrogram.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/spectrogram.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/spectrogram.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/spectrogram.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/spectrogram.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/furelisecode.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/furelisecode.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/furelisecode.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/furelisecode.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/furelisecode.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/PythonLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/PythonLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/PythonLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/PythonLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/PythonLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/GithubLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/GithubLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/GithubLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/GithubLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/GithubLogo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/flowchart.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/flowchart.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/flowchart.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/flowchart.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/flowchart.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/analoguetodigital.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/analoguetodigital.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/analoguetodigital.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/analoguetodigital.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/analoguetodigital.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/spectrogram.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/spectrogram.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/spectrogram.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/spectrogram.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/spectrogram.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
@@ -942,60 +943,59 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam1
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/big0 dft vs fft.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/big0 dft vs fft.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/big0 dft vs fft.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/big0 dft vs fft.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/big0 dft vs fft.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/big0 dft vs fft.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/big0 dft vs fft.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/big0 dft vs fft.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/big0 dft vs fft.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/big0 dft vs fft.png
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/main.py
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/main.py
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmitt10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmtt.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmtt.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmtt.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmtt.fd
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcit1095.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/compute.py
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tctt1095.tfm
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/webscrape.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlockecode/FourierTransformDemo.py
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/FourierTransform Demo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/FourierTransform Demo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/FourierTransform Demo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/FourierTransform Demo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/FourierTransform Demo.png
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.aux
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.out
-INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.run.xml
-OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX - JL/johnlocke.run.xml
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcit1200.tfm
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/compute.py
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tctt1200.tfm
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/webscrape.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlockecode/FourierTransformDemo.py
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/FourierTransform Demo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/FourierTransform Demo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/FourierTransform Demo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/FourierTransform Demo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/FourierTransform Demo.png
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.aux
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.out
+INPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.run.xml
+OUTPUT /Users/adityatatwawadi/Desktop/Projects/Python/JohnLocke2021/LaTeX Files JL/johnlocke.run.xml
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb
@@ -1006,8 +1006,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfit1095.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb

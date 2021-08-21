@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'johnlocke.blg'
-[84] biber-darwin:340> INFO - === Sat Aug 21, 2021, 17:10:07
-[108] Biber.pm:415> INFO - Reading 'johnlocke.bcf'
-[209] Biber.pm:952> INFO - Found 12 citekeys in bib section 0
-[224] Biber.pm:4340> INFO - Processing section 0
-[237] Biber.pm:4531> INFO - Looking for bibtex format file 'johnlocke.bib' for section 0
-[239] bibtex.pm:1689> INFO - LaTeX decoding ...
-[248] bibtex.pm:1494> INFO - Found BibTeX data source 'johnlocke.bib'
-[326] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[326] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[326] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[326] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[333] bbl.pm:654> INFO - Writing 'johnlocke.bbl' with encoding 'UTF-8'
-[338] bbl.pm:757> INFO - Output to johnlocke.bbl
+[78] biber-darwin:340> INFO - === Sun Aug 22, 2021, 00:27:40
+[94] Biber.pm:415> INFO - Reading 'johnlocke.bcf'
+[188] Biber.pm:952> INFO - Found 12 citekeys in bib section 0
+[203] Biber.pm:4340> INFO - Processing section 0
+[215] Biber.pm:4531> INFO - Looking for bibtex format file 'johnlocke.bib' for section 0
+[216] bibtex.pm:1689> INFO - LaTeX decoding ...
+[227] bibtex.pm:1494> INFO - Found BibTeX data source 'johnlocke.bib'
+[296] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[297] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[297] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[297] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[303] bbl.pm:654> INFO - Writing 'johnlocke.bbl' with encoding 'UTF-8'
+[307] bbl.pm:757> INFO - Output to johnlocke.bbl

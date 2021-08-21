@@ -20,8 +20,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}Database}{7}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Appendix}{7}{section.4}%
+\contentsline {section}{\numberline {4}Appendix}{8}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Postface}{14}{section.5}%
+\contentsline {section}{\numberline {5}Postface}{15}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Bibliography}{15}{section.6}%
+\contentsline {section}{\numberline {6}Bibliography}{16}{section.6}%
