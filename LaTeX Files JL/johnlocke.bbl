@@ -1,0 +1,280 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{GitHubRepo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e2db4c2034b20e94d90568b33de68dc5}{%
+           family={Tatwawadi},
+           familyi={T\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2db4c2034b20e94d90568b33de68dc5}
+      \strng{fullhash}{e2db4c2034b20e94d90568b33de68dc5}
+      \strng{bibnamehash}{e2db4c2034b20e94d90568b33de68dc5}
+      \strng{authorbibnamehash}{e2db4c2034b20e94d90568b33de68dc5}
+      \strng{authornamehash}{e2db4c2034b20e94d90568b33de68dc5}
+      \strng{authorfullhash}{e2db4c2034b20e94d90568b33de68dc5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/aditya-tatwawadi/Audio-Signal-Processing}}
+      \field{title}{John Locke - Audio Signal Processing GitHub Repo, 2021}
+    \endentry
+    \entry{BBCvaluation}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b3f2dbd9edcdea0a5c4fda9ae732b555}{%
+           family={News},
+           familyi={N\bibinitperiod},
+           given={BBC},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \strng{fullhash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \strng{bibnamehash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \strng{authorbibnamehash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \strng{authornamehash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \strng{authorfullhash}{b3f2dbd9edcdea0a5c4fda9ae732b555}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.bbc.co.uk/news/business-42299207}}
+      \field{note}{Accessed August 2021}
+      \field{title}{Apple to buy Shazam 2017}
+    \endentry
+    \entry{ShazamASP}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=27a2712f72ffeca3f8df69e30f1f7d40}{%
+           family={Jovanovic},
+           familyi={J\bibinitperiod},
+           given={Jovan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \strng{fullhash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \strng{bibnamehash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \strng{authorbibnamehash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \strng{authornamehash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \strng{authorfullhash}{27a2712f72ffeca3f8df69e30f1f7d40}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition}}
+      \field{note}{Accessed August 2021}
+      \field{title}{How Shazam Works}
+    \endentry
+    \entry{Udo1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2d212434aedd0bef9aa91caa75f5b777}{%
+           family={Zölzer},
+           familyi={Z\bibinitperiod},
+           given={Udo},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d212434aedd0bef9aa91caa75f5b777}
+      \strng{fullhash}{2d212434aedd0bef9aa91caa75f5b777}
+      \strng{bibnamehash}{2d212434aedd0bef9aa91caa75f5b777}
+      \strng{authorbibnamehash}{2d212434aedd0bef9aa91caa75f5b777}
+      \strng{authornamehash}{2d212434aedd0bef9aa91caa75f5b777}
+      \strng{authorfullhash}{2d212434aedd0bef9aa91caa75f5b777}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 0-471-97226-6}
+      \field{title}{Digital Audio Signal Processing}
+      \field{year}{1997}
+    \endentry
+    \entry{ParsonsCodeDOTMT}{book}{}
+      \name{author}{1}{}{%
+        {{hash=25868c1c251ca3e4ea86bc55eee11cbd}{%
+           family={Denys\bibnamedelima Parsons},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={S\bibnamedelima Brown},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \strng{fullhash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \strng{bibnamehash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \strng{authorbibnamehash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \strng{authornamehash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \strng{authorfullhash}{25868c1c251ca3e4ea86bc55eee11cbd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 0-904747-00-X}
+      \field{title}{The Directory of Tunes and Musical Themes}
+      \field{year}{1975}
+    \endentry
+    \entry{AdvancePhysicsTextBook}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9cc2560beeccef1854bab58d47d46141}{%
+           family={Steven\bibnamedelima Adams},
+           familyi={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Jonathan\bibnamedelima Allday},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9cc2560beeccef1854bab58d47d46141}
+      \strng{fullhash}{9cc2560beeccef1854bab58d47d46141}
+      \strng{bibnamehash}{9cc2560beeccef1854bab58d47d46141}
+      \strng{authorbibnamehash}{9cc2560beeccef1854bab58d47d46141}
+      \strng{authornamehash}{9cc2560beeccef1854bab58d47d46141}
+      \strng{authorfullhash}{9cc2560beeccef1854bab58d47d46141}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ISBN 0-199-14680-2}
+      \field{title}{General Classical Physics Theories. Ideas adapted from Advanced Physics.}
+      \field{year}{2000}
+    \endentry
+    \entry{ThinkDSP}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da33840c04e61ac05c236587952f6874}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={Allen\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{da33840c04e61ac05c236587952f6874}
+      \strng{fullhash}{da33840c04e61ac05c236587952f6874}
+      \strng{bibnamehash}{da33840c04e61ac05c236587952f6874}
+      \strng{authorbibnamehash}{da33840c04e61ac05c236587952f6874}
+      \strng{authornamehash}{da33840c04e61ac05c236587952f6874}
+      \strng{authorfullhash}{da33840c04e61ac05c236587952f6874}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ThinkDSP}
+      \field{year}{2014}
+    \endentry
+    \entry{RealEngineeringYT}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3befd96cbcb105cc59d38a7b0d221616}{%
+           family={Youtube},
+           familyi={Y\bibinitperiod},
+           given={Real\bibnamedelima Engineering},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3befd96cbcb105cc59d38a7b0d221616}
+      \strng{fullhash}{3befd96cbcb105cc59d38a7b0d221616}
+      \strng{bibnamehash}{3befd96cbcb105cc59d38a7b0d221616}
+      \strng{authorbibnamehash}{3befd96cbcb105cc59d38a7b0d221616}
+      \strng{authornamehash}{3befd96cbcb105cc59d38a7b0d221616}
+      \strng{authorfullhash}{3befd96cbcb105cc59d38a7b0d221616}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=kMNSAhsyiDg}}
+      \field{title}{How Shazam Works.}
+    \endentry
+    \entry{3Blue1Brown}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=682352d7b7d88f46edac62cd97b58db1}{%
+           family={3Blue1Brown},
+           familyi={3\bibinitperiod}}}%
+      }
+      \strng{namehash}{682352d7b7d88f46edac62cd97b58db1}
+      \strng{fullhash}{682352d7b7d88f46edac62cd97b58db1}
+      \strng{bibnamehash}{682352d7b7d88f46edac62cd97b58db1}
+      \strng{authorbibnamehash}{682352d7b7d88f46edac62cd97b58db1}
+      \strng{authornamehash}{682352d7b7d88f46edac62cd97b58db1}
+      \strng{authorfullhash}{682352d7b7d88f46edac62cd97b58db1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=spUNpyF58BY}}
+      \field{title}{But what is the Fourier Transform? A visual introduction.}
+    \endentry
+    \entry{CooleyTukey}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ef38356c8248e05565e612336787204}{%
+           family={James\bibnamedelimb W.\bibnamedelimi Cooley},
+           familyi={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={John\bibnamedelimb W.\bibnamedelimi Tukey},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ef38356c8248e05565e612336787204}
+      \strng{fullhash}{1ef38356c8248e05565e612336787204}
+      \strng{bibnamehash}{1ef38356c8248e05565e612336787204}
+      \strng{authorbibnamehash}{1ef38356c8248e05565e612336787204}
+      \strng{authornamehash}{1ef38356c8248e05565e612336787204}
+      \strng{authorfullhash}{1ef38356c8248e05565e612336787204}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Algorithm for the Machine Calculation of Complex Fourier Series.}
+      \field{year}{1965}
+    \endentry
+    \entry{AlgorithmQuoteft}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3a1164d6d50ae377ce8cb30c433f94f7}{%
+           family={J.\bibnamedelimi Dongarra},
+           familyi={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={F.\bibnamedelimi Sullivan},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \strng{fullhash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \strng{bibnamehash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \strng{authorbibnamehash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \strng{authornamehash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \strng{authorfullhash}{3a1164d6d50ae377ce8cb30c433f94f7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computing in Science and Engineering.}
+      \field{year}{2000}
+    \endentry
+    \entry{AveryWang}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f842039b79c7bb9ff978c432079f8f7e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Avery\bibnamedelima Li-Chun},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f842039b79c7bb9ff978c432079f8f7e}
+      \strng{fullhash}{f842039b79c7bb9ff978c432079f8f7e}
+      \strng{bibnamehash}{f842039b79c7bb9ff978c432079f8f7e}
+      \strng{authorbibnamehash}{f842039b79c7bb9ff978c432079f8f7e}
+      \strng{authornamehash}{f842039b79c7bb9ff978c432079f8f7e}
+      \strng{authorfullhash}{f842039b79c7bb9ff978c432079f8f7e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Industrial-Strength Audio Search Algorithm .}
+      \field{year}{2003}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
