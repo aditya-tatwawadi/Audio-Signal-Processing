@@ -5,7 +5,7 @@ Application to take a song in a .mid file, convert it into Parson's Code
 and display a photo of possible song suggestions
 
 n.b. 
-- Generally only successful for Classical music with a single melody line in isolation (Though does work for most songs on musipedia.
+- Generally only successful for Classical music with a single melody line in isolation (Though does work for most songs on musipedia).
 - .mid file should be very accurate (ideally taken from musipedia).
 
 Some test songs & their corresponding Parson's codes:
