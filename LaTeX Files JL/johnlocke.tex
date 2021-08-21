@@ -40,7 +40,7 @@
     %Style of code to make it readable
     \lstdefinestyle{chstyle}{%
     backgroundcolor = \color{gray!12},
-    basicstyle = \ttfamily\small,
+    basicstyle = \ttfamily\normalsize,
     commentstyle = \itshape\color{black},
     keywordstyle = \bfseries\color{green!40!black},
     stringstyle = \color{red},
@@ -94,21 +94,18 @@
     \pagenumbering{arabic}  
 
     %Table of Contents
+    \footnotesize \singlespacing
+        %Foreword 
+        \noindent \textbf{Foreword:} My main goal of this John Locke has been to make an application with Python. Please reach out if you would like a live demonstration. Much of this report is supplentary as an overview of Audio Signal Processing. I also have attempted this with very little to no background in music.
+        \newline
+        \href{https://github.com/aditya-tatwawadi/Audio-Signal-Processing}{Consider accessing GitHub repository here \parencite{GitHubRepo}}
     \doublespacing
     \normalsize
     \tableofcontents
-    \begin{center}\rule{0.9\linewidth}{0.5pt}\end{center}
     \lstlistoflistings 
     \singlespacing
     \normalsize
      
-    %Foreword
-    \textbf{Foreword:} 
-    \vspace{0.2cm}
-    \newline
-    My main goal of this John Locke has been to make an application with Python. Please reach out if you would like a live demonstration. Much of this report is supplentary as an overview of Audio Signal Processing. I also have very little to no background in music.
-    \newline
-    \href{https://github.com/aditya-tatwawadi/Audio-Signal-Processing}{Consider accessing GitHub repository here \parencite{GitHubRepo}}
     \newpage
     
 \begin{center}
@@ -316,11 +313,11 @@ Python Code which performs an FFT can be located in the Appendix under Listing 4
 As a sidenote, it is intriguing to consider how \textit{Shazam} stores this data. For each individual song, after the FFT is applied and a spectrogram in computed, a \textit{fingerprint} - i.e. a starmap is used to reduce the data
 from 3D to 2D. Hash functions and tables are then used in searching algorithms. This goes beyind the scope of this report, but more detail can be located in this article by the founder of Shazam - Avery Wang \parencite{AveryWang}.
 
+\newpage
 %Appendix
 \section{Appendix}
 \label{Appendix}
 A compilation of all code. Everything hosted on GitHub \parencite{GitHubRepo}.
-\newpage
 
 %Some alternate set-up
 %\newpage
@@ -333,13 +330,17 @@ A compilation of all code. Everything hosted on GitHub \parencite{GitHubRepo}.
 %\end{figure}
 
 %Listings of code
-\newpage
 \lstinputlisting[language = Python, style = chstyle, caption = main.py]{main.py}
+
+
 \lstinputlisting[language = Python, style = chstyle, caption = compute.py]{compute.py}
+
+
 \lstinputlisting[language = Python, style = chstyle, caption = webscrape.py]{webscrape.py}
 
-\newpage
 \lstinputlisting[language = Python, style = chstyle, caption = Fourier Transform Demonstration]{FourierTransformDemo.py}
+
+\newpage
 \begin{figure}[h!]
     \centering
     \includegraphics[width=16cm]{FourierTransform Demo.png}
@@ -347,6 +348,7 @@ A compilation of all code. Everything hosted on GitHub \parencite{GitHubRepo}.
 \end{figure}
 
 \section{Postface}
+\normalsize
 This project was incredibly useful in exposing me to the mathematics behind many first year EEE/ EIE degrees. Along the way I gained a lot of practical techincal information in python,
 such as Object-Oriented Programming, file-handling and proficiency with multiple libraries. This let me perform a wide range of objectives from data analysis, web-scraping to using logic to come to a solution.
 With more time, I would have looked to either Tkinter or web-development to be able to host my application on a more User-Friendly level (and hope to come back to this later). 
