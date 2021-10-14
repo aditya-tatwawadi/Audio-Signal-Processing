@@ -1,5 +1,5 @@
 # Song-Detection Application 🎶
-Summer 2021
+Summer 2021 - John Locke joint winner, Westminster School
 
 Please refer to JohnLockeFinal.pdf for a full overview of the project.
 
